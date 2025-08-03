@@ -1,4 +1,4 @@
-# dummy_app
+# dummy_InternDetails_app
 
 A new Flutter project.
 - demo: https://drive.google.com/file/d/10hRHYETf7D3McfMBeTizRjeTxrVEpNXL/view?usp=sharing
